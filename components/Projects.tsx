@@ -17,7 +17,7 @@ const featuredProjects: Project[] = [
       "Multi-framework support (React, Vue, HTML) with seamless adaptation.",
       "Iterative design refinement via natural language prompting."
     ],
-    imageUrl: '/public/assets/komponentkraft.png',
+    imageUrl: '/assets/komponentkraft.png',
     github: 'https://github.com/Moeez404/componentcraft',
     link: 'https://komponentkraft.vercel.app/',
     featured: true
@@ -35,7 +35,7 @@ const featuredProjects: Project[] = [
       "Real-time audio frequency analysis for beat-synced visual effects.",
       "Custom kinetic typography engine with dynamic text layouts."
     ],
-    imageUrl: '/public/assets/lyricalmotion.png',
+    imageUrl: '/assets/lyricalmotion.png',
     github: 'https://github.com/Moeez404/lyrical-motion',
     link: 'https://lyrical-motion.vercel.app/',
     featured: true
@@ -53,7 +53,7 @@ const featuredProjects: Project[] = [
       "Custom physics simulation and rendering system built from scratch.",
       "Integrated drag-and-drop level editor with JSON serialization."
     ],
-    imageUrl: '/public/assets/glitchrunner.png',
+    imageUrl: '/assets/glitchrunner.png',
     github: 'https://github.com/Moeez404/glitch-runner',
     link: 'https://glitchrunner-v1.vercel.app/',
     featured: true
